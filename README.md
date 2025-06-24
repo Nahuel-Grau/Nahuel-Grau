@@ -1,4 +1,4 @@
-<h2 align="left">Hola, mi nombre es Nahuel</h2>
+<h2 align="left">Hola, mi nombre es Nahuel y estos son algunos de mis proyectos</h2>
 
 ###
 
